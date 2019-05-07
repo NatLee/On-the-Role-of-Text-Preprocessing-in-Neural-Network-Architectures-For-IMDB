@@ -1,11 +1,15 @@
 
 #  On the Role of Text Preprocessing in Neural Network Architectures
-## An Evaluation Study on Text Categorization and Sentiment Analysis
-#### Jose Camacho Collados and Mohammad Taher Pilehvar
+
+### An Evaluation Study on Text Categorization and Sentiment Analysis
+
+Jose Camacho Collados and Mohammad Taher Pilehvar
 
 
-## *IMPORTANT* This is unofficial code for this [paper](https://arxiv.org/abs/1707.01780) and only run with IMDb dataset.
-## These code are modified from original code [sensecnn](https://github.com/pilehvar/sensecnn) for compatibility on Python3 and only for research use.
+### Information
+
+This is <font color=#DC143C>unofficial</font> code for this [paper](https://arxiv.org/abs/1707.01780) and only run with IMDb dataset.
+These code are modified from original code [sensecnn](https://github.com/pilehvar/sensecnn) for compatibility on Python3 and only for research use.
 
 ### Pre-trained word embeddings
 
