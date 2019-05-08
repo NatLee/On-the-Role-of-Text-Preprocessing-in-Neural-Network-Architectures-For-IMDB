@@ -9,7 +9,7 @@ Jose Camacho Collados and Mohammad Taher Pilehvar
 ### Information
 
 This is **UNOFFICIAL** code for this [paper](https://arxiv.org/abs/1707.01780) and only run with IMDb dataset.
-These code are modified from original code [sensecnn](https://github.com/pilehvar/sensecnn) for compatibility on Python3 and only for research use.
+These files are modified from original code [sensecnn](https://github.com/pilehvar/sensecnn) for compatibility on Python3 and research.
 
 ### Pre-trained word embeddings
 
